@@ -23,3 +23,11 @@
 
 <h3 align="left">LeetCode Badges:</h3>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=jai456&animated=true&theme=dark" alt="LeetCode Badges" />
+
+
+<h3 align="left">GitHub Foundations Badge:</h3>
+
+![github-foundations (3)](https://github.com/user-attachments/assets/657eedb4-8fdc-4b0d-aafe-2d705253de30)
+
+
+
