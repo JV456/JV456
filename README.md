@@ -22,7 +22,7 @@
 
 
 <h3 align="left">LeetCode Badges:</h3>
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Jai456&animated=true &theme=github-dark" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Jai456&theme=github-dark" alt="LeetCode Badges" />
 
 
 <h3 align="left">GitHub Foundations Badge:</h3>
