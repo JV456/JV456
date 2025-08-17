@@ -38,13 +38,15 @@ motto: "Transforming ideas into intelligent solutions"
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  
-  ### 💻 Programming Languages
-  ![Python](https://skillicons.dev/icons?i=python)
-  ![C++](https://skillicons.dev/icons?i=cpp)
-  ![HTML](https://skillicons.dev/icons?i=html)
-  ![CSS](https://skillicons.dev/icons?i=css)
 
+  <div align="center">
+    ### 💻 Programming Languages
+    ![Python](https://skillicons.dev/icons?i=python)
+    ![C++](https://skillicons.dev/icons?i=cpp)
+    ![HTML](https://skillicons.dev/icons?i=html)
+    ![CSS](https://skillicons.dev/icons?i=css)
+  </div>
+  
   ### 🗄️ Databases
   ![MongoDB](https://skillicons.dev/icons?i=mongodb)
   ![MySQL](https://skillicons.dev/icons?i=mysql)
