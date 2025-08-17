@@ -39,6 +39,7 @@ motto: "Transforming ideas into intelligent solutions"
 
 <div align="center">
 
+
 ### 💻 Programming Languages
 ![Python](https://skillicons.dev/icons?i=python)
 ![C++](https://skillicons.dev/icons?i=cpp)
