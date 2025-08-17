@@ -38,8 +38,6 @@ motto: "Transforming ideas into intelligent solutions"
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-
-
 ### 💻 Programming Languages
 ![Python](https://skillicons.dev/icons?i=python)
 ![C++](https://skillicons.dev/icons?i=cpp)
@@ -67,7 +65,6 @@ motto: "Transforming ideas into intelligent solutions"
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" alt="Seaborn" title="Seaborn"/>
   <img src="https://matplotlib.org/_static/images/documentation.svg" height="48" alt="Matplotlib" title="Matplotlib"/>
 </div>
-
 </div>
 
 ## 📊 GitHub Analytics
