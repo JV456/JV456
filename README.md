@@ -38,33 +38,34 @@ motto: "Transforming ideas into intelligent solutions"
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-### 💻 Programming Languages
-![Python](https://skillicons.dev/icons?i=python)
-![C++](https://skillicons.dev/icons?i=cpp)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+  
+  ### 💻 Programming Languages
+  ![Python](https://skillicons.dev/icons?i=python)
+  ![C++](https://skillicons.dev/icons?i=cpp)
+  ![HTML](https://skillicons.dev/icons?i=html)
+  ![CSS](https://skillicons.dev/icons?i=css)
 
-### 🗄️ Databases
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+  ### 🗄️ Databases
+  ![MongoDB](https://skillicons.dev/icons?i=mongodb)
+  ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-### ☁️ Cloud & DevOps
-![Google Cloud](https://skillicons.dev/icons?i=gcp)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+  ### ☁️ Cloud & DevOps
+  ![Google Cloud](https://skillicons.dev/icons?i=gcp)
+  ![Docker](https://skillicons.dev/icons?i=docker)
+  ![Git](https://skillicons.dev/icons?i=git)
+  ![GitHub](https://skillicons.dev/icons?i=github)
 
-### 🤖 AI/ML & Data Science
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow"/>
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" title="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" title="NumPy"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" alt="Scikit-learn" title="Scikit-learn"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" alt="Seaborn" title="Seaborn"/>
-  <img src="https://matplotlib.org/_static/images/documentation.svg" height="48" alt="Matplotlib" title="Matplotlib"/>
-</div>
+  ### 🤖 AI/ML & Data Science
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" title="TensorFlow"/>
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" title="PyTorch"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" title="Jupyter"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" alt="Pandas" title="Pandas"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" alt="NumPy" title="NumPy"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="48" alt="Scikit-learn" title="Scikit-learn"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" alt="Seaborn" title="Seaborn"/>
+    <img src="https://matplotlib.org/_static/images/documentation.svg" height="48" alt="Matplotlib" title="Matplotlib"/>
+  </div>
 </div>
 
 ## 📊 GitHub Analytics
